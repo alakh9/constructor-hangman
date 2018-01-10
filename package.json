@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "hang man game with constructors to work inside of node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alakh9/constructor-hangman.git"
+  },
+  "author": "Alakh Sheth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alakh9/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/alakh9/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "prompt": "^1.0.0"
+  }
+}
